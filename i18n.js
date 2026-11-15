@@ -241,7 +241,7 @@
     'PADDED STOCK': '缓冲枪托',
     'Nothing between you and the target. Fastest to the eye.':
       '目标与视线之间毫无遮挡，抬枪最快。',
-    'Open red dot. Precise and quick.': '开放式红点，精准迅速。',
+    'Open red dot. Precise and quick.': '开放式红点，精准且迅速。',
     'Wide window with a ring-and-dot reticle.': '宽视窗，环形点状分划。',
     'Magnified prism sight for the long lanes.': '放大棱镜瞄具，适合长走廊。',
     'Standard flash hider.': '标准消焰器。',
