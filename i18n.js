@@ -12,6 +12,7 @@
   /* ---------- 词表 ---------- */
   var DICT = {
     /* ===== 加载 / 启动 ===== */
+    'Golden Hour': '黄金时刻',
     'PREPARING': '准备中',
     'PREPARING THE ARMOURY': '准备军械库',
     'INITIALISING RENDERER': '初始化渲染器',
@@ -28,6 +29,7 @@
     'FIELD NOTES': '战地笔记',
 
     /* ===== 主菜单 ===== */
+    'Golden Hour': '黄金时刻',
     'TEAM DEATHMATCH — 5 v 5 — FIRST TO 40': '团队死斗 — 5 v 5 — 先到 40 杀',
     'DEPLOY': '部署',
     'GUNSMITH': '枪械工坊',
